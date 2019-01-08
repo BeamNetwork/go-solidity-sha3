@@ -9,12 +9,12 @@ This package is the Go equivalent of `require('ethereumjs-abi').soliditySHA3` [N
 # Install
 
 ```bash
-go get -u github.com/miguelmota/go-solidity-sha3
+go get -u github.com/BeamNetwork/go-solidity-sha3
 ```
 
 # Documentation
 
-[Documentation on GoDoc](https://godoc.org/github.com/miguelmota/go-solidity-sha3)
+[Documentation on GoDoc](https://godoc.org/github.com/BeamNetwork/go-solidity-sha3)
 
 # Usage
 
@@ -26,7 +26,7 @@ package main
 import (
   "encoding/hex"
   "fmt"
-  "github.com/miguelmota/go-solidity-sha3"
+  "github.com/BeamNetwork/go-solidity-sha3"
   "math/big"
 )
 

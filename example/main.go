@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/miguelmota/go-solidity-sha3"
+	"github.com/BeamNetwork/go-solidity-sha3"
 )
 
 func main() {
